@@ -1,0 +1,94 @@
+## Title: Guidelime_Sniffle
+## Author: Sniffle
+## Version: 0.1.0
+## Interface: 11304
+## Dependencies: Guidelime
+## Notes: Guide is converted from classicwow.live website
+
+Alliance 1-12 NE.lua
+Alliance 1-12 Human.lua
+Alliance 1-12 Dwarf and Gnome.lua
+Alliance 12-14.lua
+Alliance 14-16.lua
+Alliance 17-19.lua
+Alliance 19-20.lua
+Alliance 20-22.lua
+Alliance 22-24.lua
+Alliance 24-26.lua
+Alliance 26-28.lua
+Alliance 28-29.lua
+Alliance 29-30.lua
+Alliance 30-32.lua
+Alliance 32-33.lua
+Alliance 33-34.lua
+Alliance 34-36.lua
+Alliance 36-36.lua
+Alliance 36-38.lua
+Alliance 38-40.lua
+Alliance 40-41.lua
+Alliance 41-42.lua
+Alliance 42-43.lua
+Alliance 43-44.lua
+Alliance 44-46.lua
+Alliance 46-46.lua
+Alliance 46-48.lua
+Alliance 48-49.lua
+Alliance 49-50.lua
+Alliance 50-50.lua
+Alliance 50-51.lua
+Alliance 51-52.lua
+Alliance 52-52.lua
+Alliance 52-53.lua
+Alliance 53-54.lua
+Alliance 54-55.lua
+Alliance 55-56.lua
+Alliance 56-57.lua
+Alliance 57-58.lua
+Alliance 58-58.lua
+Alliance 58-60.lua
+
+Horde 1-12 Undead.lua
+Horde 1-12 Tauren.lua
+Horde 1-12 Orc and Troll.lua
+Horde 12-14.lua
+Horde 14-16.lua
+Horde 16-18.lua
+Horde 18-20.lua
+Horde 20-21.lua
+Horde 21-23.lua
+Horde 23-25.lua
+Horde 25-26.lua
+Horde 26-27.lua
+Horde 27-30.lua
+Horde 30-31.lua
+Horde 31-32.lua
+Horde 32-35.lua
+Horde 35-36.lua
+Horde 33-37.lua
+Horde 37-38.lua
+Horde 38-39.lua
+Horde 39-40.lua
+Horde 40-41.lua
+Horde 41-42.lua
+Horde 42-43.lua
+Horde 43-44.lua
+Horde 44-45.lua
+Horde 45-45.lua
+Horde 45-46.lua
+Horde 46-47.lua
+Horde 47-48.lua
+Horde 48-49.lua
+Horde 49-50.lua
+Horde 50-51.lua
+Horde 51-52.lua
+Horde 52-53.lua
+Horde 53-54.lua
+Horde 54-54.lua
+Horde 54-55.lua
+Horde 55-56.lua
+Horde 56-56.lua
+Horde 56-57.lua
+Horde 57-58.lua
+Horde 58-58.lua
+Horde 58-59.lua
+Horde 59-60.lua
