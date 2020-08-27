@@ -10,6 +10,7 @@ Alliance 1-12 Human.lua
 Alliance 1-12 Dwarf and Gnome.lua
 Alliance 12-14.lua
 Alliance 14-16.lua
+Alliance 16-17.lua
 Alliance 17-19.lua
 Alliance 19-20.lua
 Alliance 20-22.lua
