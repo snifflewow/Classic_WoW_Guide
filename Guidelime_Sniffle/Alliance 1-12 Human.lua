@@ -287,10 +287,10 @@ Accept [QA353] from Grimand Elmore[A Warlock]
 Go [G 63.9, 8.2 stormwind city] to Deeprun Tram[A Warlock]
 Go [G 63.9, 8.2 stormwind city] to Ironforge station
 Accept [QA6661] from Monty
-Complete [QC6661][L  deeprun tram]
+Complete [QC6661]
 Turn in [QT6661] to Monty 900 XP
 Skip [QS6662]
-Go [G  deeprun tram] to Ironforge
+Go to Ironforge with the Deeprun Tram
 Visit Bixi Wobblebonk at [G 62.2, 89.6 ironforge] to Train Thrown[A Warrior]
 Visit Buliwyf Stonehand at [G 61.2, 89.5 ironforge] to Train One-Handed Maces[A Rogue]
 Get Flight Path [P ]
