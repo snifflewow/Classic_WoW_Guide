@@ -9,24 +9,13 @@ Accept [QA12] from Gryan Stoutmantle
 Accept [QA65] from Gryan Stoutmantle
 Accept [QA102] from Captain Danuvin
 Accept [QA6181] from Quartermaster Lewis
-Get Flight Path [P ]
+Get Flight Path [P Sentinel Hill]
 Accept [QA153] from Scout Galiaan
 Set hearth in [S Sentinel Hill]
-Go [G 76.6, 80.0 westfall] to Stranglethorn Vale
 Turn in [QT6181] to Thor 168 XP
 Accept [QA6281] from Thor
-Get Flight Path [P ]
+Get Flight Path [P Stormwind]
 Fly to [F Lakeshire]
-Die  [L 30.0, 3.6 stranglethorn vale] in Stranglethorn Vale \\Drown or pull mobs.
-Spirit res [G 38.4, 9.0 stranglethorn vale] near Rebel Camp
-Go [G 38.6, 6.5 stranglethorn vale] around dangerous mobs
-Go [G 40.7, 3.2 stranglethorn vale] to Duskwood
-Die  [L 48, 77 duskwood] at Yorgen Farmstead
-Spirit res [G 75.1, 59.0 duskwood] at Darkshire
-Buy  Bottle of Moonshine from Barkeep Hann at [G 73.7, 44.0 duskwood]
-Buy 1 Bronze Tube from Herble Baubbletump at [G 78.0, 48.3 duskwood] \\If you don't already have one. Needed for Darkshire quest.
-Get Flight Path at [P Darkshire]
-Go [G 94.1, 10.2 duskwood] to Redridge Mountains
 Accept [QA244] from Guard Parker
 Turn in [QT244] to Deputy Feldon 290 XP
 Accept [QA246] from Deputy Feldon
