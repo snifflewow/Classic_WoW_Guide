@@ -33,9 +33,9 @@ Visit Malakai Cross at [G 24.5, 22.6 thunder bluff] to Train[T][A Priest]
 Visit Kardris Dreamseeker at [G 38.8, 36.4 thunder bluff] to Train[T][A Shaman]
 Visit Grezz Ragefist at [G 79.8, 31.4 thunder bluff] to Train[T][A Warrior]
 Turn in [QT1136] to Melor Stonehoof 4250 XP
-Bank Withdrawal Mystery Meat[G 49.6, 69.1 thunder bluff][A ]
-Bank Withdrawal [Recipe: Soothing Turtle Bisque][G 49.6, 69.1 thunder bluff][A ]
-Bank Withdrawal [Lion Meat][G 49.6, 69.1 thunder bluff][A ]
+Bank Withdrawal Mystery Meat[G 49.6, 69.1 thunder bluff]
+Bank Withdrawal Recipe: Soothing Turtle Bisque[G 49.6, 69.1 thunder bluff]
+Bank Withdrawal Lion Meat[G 49.6, 69.1 thunder bluff]
 Fly to [F Sun Rock Retreat]
 Go [G 44.7, 61.5 stonetalon mountains] up mountain pass
 Go [G 38.0, 68.0 stonetalon mountains] to The Charred Vale
