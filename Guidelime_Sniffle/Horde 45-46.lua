@@ -56,7 +56,7 @@ Complete [QC5535][L 17, 68 azshara]
 Complete [QC5536][L 21, 61 azshara]
 Turn in [QT5535] to Loh'atu 4200 XP
 Turn in [QT5536] to Loh'atu 4200 XP
-Progress [QC[4589]][L 19, 56 azshara] [O] \\Will need 10 for Hinterlands quest soon, try to farm at least 5 here. Also farm 2x Undamaged Hippogryph Feather and hand them in just past Valormok.
+Progress [QC4589][L 19, 56 azshara] [O] \\Will need 10 for Hinterlands quest soon, try to farm at least 5 here. Also farm 2x Undamaged Hippogryph Feather and hand them in just past Valormok.
 Turn in [QT3504] to Ag'tor Bloodfist 2650 XP
 Skip [QS3505]
 Get Flight Path at [P Valormok]
